@@ -1,5 +1,5 @@
 
 my name is nishant
 
-test i am nishant sharma 
-i am fine   git
+test i am nishan sharma 
+i am finegit    git
