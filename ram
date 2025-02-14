@@ -2,3 +2,27 @@ Log entry 1
 Log entry 2
 ...
 Log entry 100
+ske  according grep command ki with all argument ke sath practice
+
+
+echo "Hello World" > test.txt
+echo "Hello India" >> test.txt
+echo "This is a test file" >> test.txt
+echo "Grep is a powerful command" >> test.txt
+echo "Learning Linux is fun" >> test.txt
+echo "12345 is a number" >> test.txt
+echo "HELLO uppercase" >> test.txt
+echo "grep is case-sensitive by default" >> test.txt
+echo "Special characters like $ ^ * are used in regex" >> test.txt
+echo "Error: Something went wrong" >> test.txt
+
+echo "# Practice" > practice.txt
+echo "Find lines containing the word 'Hello'" >> practice.txt
+echo "Search for lines that start with 'Grep'" >> practice.txt
+echo "Find lines that end with 'fun'" >> practice.txt
+echo "Search for numbers in the file" >> practice.txt
+echo "Perform a case-insensitive search for 'hello'" >> practice.txt
+echo "Find lines containing special characters ($, ^, *)" >> practice.txt
+echo "Display line numbers along with matches" >> practice.txt
+echo "Invert the search to display lines that do NOT contain 'Linux'" >> practice.txt
+echo "Count the number of lines containing 'is'" >> practice.txt
