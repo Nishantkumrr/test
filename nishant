@@ -26,4 +26,6 @@ jobs:
         run: npm install
 
       - name: Run tests
-        run: npm test
+        run: npm testgit
+
+        hello my name is nishant sharma i am 20 years old i am parsing diploma in computer 
